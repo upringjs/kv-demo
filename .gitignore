@@ -57,3 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
+package-lock.json
+
+# mac files
+.DS_Store
+
+# vim swap files
+*.swp
