@@ -32,7 +32,7 @@
     "pump": "^2.0.0",
     "readable-stream": "^2.3.3",
     "upring": "^0.22.0",
-    "upring-kv": "git+https://github.com/upringjs/upring-kv.git#plugin",
+    "upring-kv": "^0.5.0",
     "url-format-lax": "^1.0.0"
   }
 }
